@@ -3,7 +3,7 @@
 오픈소스를 **분석**하는 걸 좋아합니다.  
 공부하고, 정리하고, **깊이 파고드는 것**에 열정을 느낍니다.  
 
-#혼신 #치열 #고통 #쉬운길보다는 어려운길
+**좋아하는 키워드 ** 혼신, 치열, 고통, 쉬운길보다는 어려운길
 ---
 
 ## 🛠 Skills
@@ -21,8 +21,8 @@
 
 ## 📈 GitHub Stats
 
-![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonihoon85&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoonihoon85&layout=compact&theme=radical)
+![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=warrenth&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warrenth&layout=compact&theme=radical)
 
 ---
 
