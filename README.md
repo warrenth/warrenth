@@ -19,7 +19,8 @@
 ## 📈 GitHub Stats
 
 ![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=warrenth&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=warrenth&theme=radical&date_format=M%20j)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warrenth&layout=compact&theme=radical)
+
 
 
 
