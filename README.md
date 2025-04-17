@@ -18,8 +18,9 @@
 
 ## 📈 GitHub Stats
 
-![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonihoon85&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoonihoon85&layout=compact&theme=radical)
+![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=warrenth&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=warrenth&theme=radical&date_format=M%20j)](https://git.io/streak-stats)
+
 
 
 
