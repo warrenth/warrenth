@@ -18,15 +18,8 @@
 
 ## 📈 GitHub Stats
 
-![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonihoon85&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=hoonihoon85&theme=radical&date_format=M%20j)](https://git.io/streak-stats)
-
-![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonihoon85&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hoonihoon85&theme=radical&date_format=M%20j)](https://git.io/streak-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warrenth&layout=compact&theme=radical)
+![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonihoon85&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hoonihoon85&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
