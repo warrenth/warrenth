@@ -5,7 +5,7 @@
 
 ## 📈 GitHub Stats
 
-![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=warrenth&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hoonihoon85&theme=radical&column=4&title=Stars,Commits,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠 Skills
 <p align="left">
