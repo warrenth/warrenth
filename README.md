@@ -4,9 +4,6 @@
 
 **ctxcraft** — AI agent context optimizer. Evaluate and reduce token waste in `.claude/` directories.
 
-## 📈 GitHub Stats
-![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=warrenth&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
 ## 🛠 Skills
 
 ### Mobile
