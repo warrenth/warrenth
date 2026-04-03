@@ -2,7 +2,7 @@
 
 [![ctxcraft](https://github-readme-stats.vercel.app/api/pin/?username=warrenth&repo=ctxcraft&theme=radical)](https://github.com/warrenth/ctxcraft)
 
-**ctxcraft** — AI agent context optimizer. Evaluate and reduce token waste in `.claude/` directories.
+**ctxcraft** — AI agent context optimizer. Evaluate and reduce token waste in `.claude/` directories. 
 
 ## 🛠 Skills
 
